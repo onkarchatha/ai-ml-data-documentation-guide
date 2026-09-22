@@ -27,6 +27,7 @@ Secondary audiences may include:
 4. [Schema and metadata standards](docs/schema-and-metadata.md)
 5. [Data quality and validation](docs/data-quality-and-validation.md)
 6. [Version control and audit trails](docs/version-control-and-audit-trails.md)
+7. [Analytics workflows and integration](docs/analytics-workflows-and-integration.md)
 
 ## Topics covered
 
