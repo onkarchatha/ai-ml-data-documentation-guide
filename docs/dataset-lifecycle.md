@@ -110,6 +110,8 @@ Keep validation status separate from lifecycle status. An active dataset can hav
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| [← Introduction](introduction.md) | [All documents](../README.md#documentation) | [Data provenance and ownership →](provenance-and-ownership.md) |
+<p align="center">
+<a href="introduction.md"><img src="../assets/images/guide-nav-dataset-lifecycle-previous.svg" width="32%" alt="Previous: Introduction" title="Previous: Introduction"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="provenance-and-ownership.md"><img src="../assets/images/guide-nav-dataset-lifecycle-next.svg" width="32%" alt="Next: Data provenance and ownership" title="Next: Data provenance and ownership"></a>
+</p>

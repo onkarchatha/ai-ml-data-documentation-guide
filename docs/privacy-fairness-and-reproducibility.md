@@ -124,6 +124,8 @@ If inputs cannot be retained or redistributed, record that constraint and what e
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| [← Analytics workflows and integration](analytics-workflows-and-integration.md) | [All documents](../README.md#documentation) | [Templates and examples →](templates-and-examples.md) |
+<p align="center">
+<a href="analytics-workflows-and-integration.md"><img src="../assets/images/guide-nav-privacy-fairness-and-reproducibility-previous.svg" width="32%" alt="Previous: Analytics workflows and integration" title="Previous: Analytics workflows and integration"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="templates-and-examples.md"><img src="../assets/images/guide-nav-privacy-fairness-and-reproducibility-next.svg" width="32%" alt="Next: Templates and examples" title="Next: Templates and examples"></a>
+</p>

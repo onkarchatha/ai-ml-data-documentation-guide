@@ -120,6 +120,8 @@ For example, a missing optional field might be acceptable for an aggregate activ
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| [← Schema and metadata standards](schema-and-metadata.md) | [All documents](../README.md#documentation) | [Version control and audit trails →](version-control-and-audit-trails.md) |
+<p align="center">
+<a href="schema-and-metadata.md"><img src="../assets/images/guide-nav-data-quality-and-validation-previous.svg" width="32%" alt="Previous: Schema and metadata standards" title="Previous: Schema and metadata standards"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="version-control-and-audit-trails.md"><img src="../assets/images/guide-nav-data-quality-and-validation-next.svg" width="32%" alt="Next: Version control and audit trails" title="Next: Version control and audit trails"></a>
+</p>

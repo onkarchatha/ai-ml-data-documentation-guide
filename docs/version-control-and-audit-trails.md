@@ -129,6 +129,8 @@ For deprecation, announce the replacement, migration steps, affected consumers, 
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| [← Data quality and validation](data-quality-and-validation.md) | [All documents](../README.md#documentation) | [Analytics workflows and integration →](analytics-workflows-and-integration.md) |
+<p align="center">
+<a href="data-quality-and-validation.md"><img src="../assets/images/guide-nav-version-control-and-audit-trails-previous.svg" width="32%" alt="Previous: Data quality and validation" title="Previous: Data quality and validation"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="analytics-workflows-and-integration.md"><img src="../assets/images/guide-nav-version-control-and-audit-trails-next.svg" width="32%" alt="Next: Analytics workflows and integration" title="Next: Analytics workflows and integration"></a>
+</p>

@@ -130,6 +130,8 @@ A successful handoff means the receiving team can interpret and support the outp
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| [← Version control and audit trails](version-control-and-audit-trails.md) | [All documents](../README.md#documentation) | [Privacy, fairness, and reproducibility →](privacy-fairness-and-reproducibility.md) |
+<p align="center">
+<a href="version-control-and-audit-trails.md"><img src="../assets/images/guide-nav-analytics-workflows-and-integration-previous.svg" width="32%" alt="Previous: Version control and audit trails" title="Previous: Version control and audit trails"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="privacy-fairness-and-reproducibility.md"><img src="../assets/images/guide-nav-analytics-workflows-and-integration-next.svg" width="32%" alt="Next: Privacy, fairness, and reproducibility" title="Next: Privacy, fairness, and reproducibility"></a>
+</p>

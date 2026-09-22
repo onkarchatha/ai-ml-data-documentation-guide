@@ -135,6 +135,8 @@ Effective documentation is shared work across engineering, product, analysis, wr
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| [← Templates and examples](templates-and-examples.md) | [All documents](../README.md#documentation) | — |
+<p align="center">
+<a href="templates-and-examples.md"><img src="../assets/images/guide-nav-maintenance-and-governance-previous.svg" width="32%" alt="Previous: Templates and examples" title="Previous: Templates and examples"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-maintenance-and-governance-next.svg" width="32%" alt="Next: Back to contents" title="Next: Back to contents"></a>
+</p>

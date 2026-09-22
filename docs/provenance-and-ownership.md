@@ -114,6 +114,8 @@ If a source is discontinued or a vendor changes terms, identify affected consume
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| [← Dataset lifecycle](dataset-lifecycle.md) | [All documents](../README.md#documentation) | [Schema and metadata standards →](schema-and-metadata.md) |
+<p align="center">
+<a href="dataset-lifecycle.md"><img src="../assets/images/guide-nav-provenance-and-ownership-previous.svg" width="32%" alt="Previous: Dataset lifecycle" title="Previous: Dataset lifecycle"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="schema-and-metadata.md"><img src="../assets/images/guide-nav-provenance-and-ownership-next.svg" width="32%" alt="Next: Schema and metadata standards" title="Next: Schema and metadata standards"></a>
+</p>

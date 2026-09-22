@@ -249,6 +249,8 @@ Use the [validation report template](data-quality-and-validation.md#validation-r
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| [← Privacy, fairness, and reproducibility](privacy-fairness-and-reproducibility.md) | [All documents](../README.md#documentation) | [Maintenance and governance →](maintenance-and-governance.md) |
+<p align="center">
+<a href="privacy-fairness-and-reproducibility.md"><img src="../assets/images/guide-nav-templates-and-examples-previous.svg" width="32%" alt="Previous: Privacy, fairness, and reproducibility" title="Previous: Privacy, fairness, and reproducibility"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="maintenance-and-governance.md"><img src="../assets/images/guide-nav-templates-and-examples-next.svg" width="32%" alt="Next: Maintenance and governance" title="Next: Maintenance and governance"></a>
+</p>

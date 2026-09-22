@@ -123,6 +123,8 @@ The [NIST AI Risk Management Framework 1.0](https://www.nist.gov/publications/ar
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| — | [All documents](../README.md#documentation) | [Dataset lifecycle →](dataset-lifecycle.md) |
+<p align="center">
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-introduction-previous.svg" width="32%" alt="Previous: Guide overview" title="Previous: Guide overview"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="dataset-lifecycle.md"><img src="../assets/images/guide-nav-introduction-next.svg" width="32%" alt="Next: Dataset lifecycle" title="Next: Dataset lifecycle"></a>
+</p>

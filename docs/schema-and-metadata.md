@@ -128,6 +128,8 @@ A change can be breaking even without a type change. Redefining “active” or 
 
 ---
 
-| Previous | Guide | Next |
-| :--- | :---: | ---: |
-| [← Data provenance and ownership](provenance-and-ownership.md) | [All documents](../README.md#documentation) | [Data quality and validation →](data-quality-and-validation.md) |
+<p align="center">
+<a href="provenance-and-ownership.md"><img src="../assets/images/guide-nav-schema-and-metadata-previous.svg" width="32%" alt="Previous: Data provenance and ownership" title="Previous: Data provenance and ownership"></a>
+<a href="../README.md#documentation"><img src="../assets/images/guide-nav-contents.svg" width="32%" alt="Contents: all documents" title="Contents: all documents"></a>
+<a href="data-quality-and-validation.md"><img src="../assets/images/guide-nav-schema-and-metadata-next.svg" width="32%" alt="Next: Data quality and validation" title="Next: Data quality and validation"></a>
+</p>
