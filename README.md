@@ -26,6 +26,7 @@ Secondary audiences may include:
 3. [Data provenance and ownership](docs/provenance-and-ownership.md)
 4. [Schema and metadata standards](docs/schema-and-metadata.md)
 5. [Data quality and validation](docs/data-quality-and-validation.md)
+6. [Version control and audit trails](docs/version-control-and-audit-trails.md)
 
 ## Topics covered
 
