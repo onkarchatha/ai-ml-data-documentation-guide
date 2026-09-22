@@ -25,6 +25,7 @@ Secondary audiences may include:
 2. [Dataset lifecycle](docs/dataset-lifecycle.md)
 3. [Data provenance and ownership](docs/provenance-and-ownership.md)
 4. [Schema and metadata standards](docs/schema-and-metadata.md)
+5. [Data quality and validation](docs/data-quality-and-validation.md)
 
 ## Topics covered
 
