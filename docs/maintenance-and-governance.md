@@ -37,6 +37,10 @@ Typical responsibilities may include:
 - Technical writers or editors maintaining clarity and consistency
 - Team leads overseeing periodic reviews
 
+![Table assigning schema maintenance to engineers, metric alignment to product managers, governance review to compliance, editorial clarity to writers, and audits to team leads.](../assets/images/documentation-maintenance-responsibilities.png)
+
+*Example division of responsibilities for maintaining the guide.*
+
 ## Keep documentation connected
 
 As systems change:

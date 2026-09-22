@@ -27,6 +27,13 @@ Secondary readers may include:
 - Data analysts
 - Technical writers
 - Compliance professionals
+
+## Documentation as a shared layer
+
+![Documentation connects data engineering work with product management and analytics through provenance, metadata, and ownership.](../assets/images/data-documentation-shared-layer.png)
+
+*Documentation captures engineering work and provides context for analytics and product decisions.*
+
 ## Next
 
 Continue to [Dataset lifecycle](dataset-lifecycle.md).

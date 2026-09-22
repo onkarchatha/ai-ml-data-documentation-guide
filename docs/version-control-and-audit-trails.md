@@ -39,6 +39,10 @@ Document who can:
 
 Access rules should align with the organization’s existing policies and ownership model.
 
+![Example permissions matrix comparing view, edit, and archive or delete access for engineers, product managers, analysts, compliance officers, technical writers, and team leads.](../assets/images/documentation-access-permissions.png)
+
+*Illustrative role-based permissions; adapt these to your organization’s policies.*
+
 ## Why audit trails matter
 
 A documented history supports:

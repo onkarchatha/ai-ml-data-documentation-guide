@@ -30,6 +30,10 @@ For each limitation, record:
 
 Making these limitations explicit helps teams assess whether a dataset is appropriate for a particular analysis or model.
 
+![Example limitations table showing how excluded regions can reduce generalizability and missing income data can affect fairness assessment.](../assets/images/dataset-exclusions-and-limitations.png)
+
+*Record exclusions and missing variables together with their potential impacts.*
+
 ## Document privacy and consent
 
 Dataset documentation should identify privacy and security considerations such as:

@@ -39,6 +39,15 @@ For example:
 | `login_timestamp` | Timestamp | Time of last login | Yes | UTC format |
 | `region` | String | User's country or region | Yes | ISO country code |
 
+<details>
+<summary>View the schema table from the original guide</summary>
+
+![Schema table listing user_id, login_timestamp, and region with data types, descriptions, nullability, and notes.](../assets/images/schema-metadata-example.png)
+
+*Original schema example; the editable Markdown version appears above.*
+
+</details>
+
 ## Record transformations
 
 When fields are created or modified through transformation or feature engineering, document:

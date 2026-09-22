@@ -50,3 +50,7 @@ Examples include:
 - Syncing metadata through APIs
 - Triggering documentation updates when schemas change
 - Sending notifications when major data changes occur
+
+![Workflow from ETL and data pipelines through monitoring and validation to documentation and version control.](../assets/images/automated-documentation-workflow.png)
+
+*Metadata and validation results flow into documentation, with changes tracked in version control.*
