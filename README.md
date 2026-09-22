@@ -28,6 +28,9 @@ Secondary audiences may include:
 5. [Data quality and validation](docs/data-quality-and-validation.md)
 6. [Version control and audit trails](docs/version-control-and-audit-trails.md)
 7. [Analytics workflows and integration](docs/analytics-workflows-and-integration.md)
+8. [Privacy, fairness, and reproducibility](docs/privacy-fairness-and-reproducibility.md)
+9. [Templates and examples](docs/templates-and-examples.md)
+10. [Maintenance and governance](docs/maintenance-and-governance.md)
 
 ## Topics covered
 
