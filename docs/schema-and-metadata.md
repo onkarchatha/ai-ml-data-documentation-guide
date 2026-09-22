@@ -1,5 +1,7 @@
 # Schema and metadata standards
 
+[← Guide home](../README.md#documentation) · Document 4 of 10
+
 Consistent schema and metadata make datasets easier to understand, validate, and use across teams.
 
 ## Use clear field naming conventions
@@ -59,3 +61,9 @@ When fields are created or modified through transformation or feature engineerin
 - Change history
 
 Link transformation changes to version-control records where possible.
+
+---
+
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| [← Data provenance and ownership](provenance-and-ownership.md) | [All documents](../README.md#documentation) | [Data quality and validation →](data-quality-and-validation.md) |

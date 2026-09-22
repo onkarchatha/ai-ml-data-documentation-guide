@@ -1,5 +1,7 @@
 # Introduction
 
+[← Guide home](../README.md#documentation) · Document 1 of 10
+
 ## Purpose of the guide
 
 This guide provides a structured approach to documenting datasets used in AI and machine learning systems within SaaS analytics environments.
@@ -34,6 +36,8 @@ Secondary readers may include:
 
 *Documentation captures engineering work and provides context for analytics and product decisions.*
 
-## Next
+---
 
-Continue to [Dataset lifecycle](dataset-lifecycle.md).
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| — | [All documents](../README.md#documentation) | [Dataset lifecycle →](dataset-lifecycle.md) |

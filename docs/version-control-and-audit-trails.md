@@ -1,5 +1,7 @@
 # Version control and audit trails
 
+[← Guide home](../README.md#documentation) · Document 6 of 10
+
 Version control helps teams understand how a dataset or its documentation has changed over time.
 
 A clear audit trail makes it easier to review updates, trace decisions, and connect documentation changes to related work.
@@ -52,3 +54,9 @@ A documented history supports:
 - Handoffs
 - Accountability
 - Reproducibility
+
+---
+
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| [← Data quality and validation](data-quality-and-validation.md) | [All documents](../README.md#documentation) | [Analytics workflows and integration →](analytics-workflows-and-integration.md) |

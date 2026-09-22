@@ -1,5 +1,7 @@
 # Data quality and validation
 
+[← Guide home](../README.md#documentation) · Document 5 of 10
+
 Data quality checks help teams catch incomplete, inconsistent, or unexpected data before it affects analytics or machine learning systems.
 
 ## Run consistent validation checks
@@ -49,3 +51,9 @@ Validation should also account for changes that may affect dataset reliability, 
 - Changes in data sources
 - Unexpected shifts in values
 - Changes to transformation logic
+
+---
+
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| [← Schema and metadata standards](schema-and-metadata.md) | [All documents](../README.md#documentation) | [Version control and audit trails →](version-control-and-audit-trails.md) |

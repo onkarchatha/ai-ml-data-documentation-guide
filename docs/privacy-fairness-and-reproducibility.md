@@ -1,5 +1,7 @@
 # Privacy, fairness, and reproducibility
 
+[← Guide home](../README.md#documentation) · Document 8 of 10
+
 Dataset documentation should capture not only how data is structured and maintained, but also the limitations, risks, and decisions that may affect how it can be used.
 
 ## Document bias and fairness considerations
@@ -57,3 +59,9 @@ Include:
 - Dataset version
 - Bias testing results
 - Reproducibility notes
+
+---
+
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| [← Analytics workflows and integration](analytics-workflows-and-integration.md) | [All documents](../README.md#documentation) | [Templates and examples →](templates-and-examples.md) |

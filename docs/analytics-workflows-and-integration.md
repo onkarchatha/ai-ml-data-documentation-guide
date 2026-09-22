@@ -1,5 +1,7 @@
 # Analytics workflows and documentation integration
 
+[← Guide home](../README.md#documentation) · Document 7 of 10
+
 Documentation is most useful when it connects directly to the systems where teams analyze data, build models, and make decisions.
 
 ## Link documentation to dashboards
@@ -54,3 +56,9 @@ Examples include:
 ![Workflow from ETL and data pipelines through monitoring and validation to documentation and version control.](../assets/images/automated-documentation-workflow.png)
 
 *Metadata and validation results flow into documentation, with changes tracked in version control.*
+
+---
+
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| [← Version control and audit trails](version-control-and-audit-trails.md) | [All documents](../README.md#documentation) | [Privacy, fairness, and reproducibility →](privacy-fairness-and-reproducibility.md) |

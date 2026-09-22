@@ -1,5 +1,7 @@
 # Templates and examples
 
+[← Guide home](../README.md#documentation) · Document 9 of 10
+
 Standardized templates help teams document datasets consistently across projects.
 
 ## Dataset documentation template
@@ -81,3 +83,9 @@ A dataset used to predict customer churn may include:
 *Example schema for a customer churn prediction dataset.*
 
 Examples should demonstrate how the documentation framework applies to realistic datasets rather than acting as fixed schemas.
+
+---
+
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| [← Privacy, fairness, and reproducibility](privacy-fairness-and-reproducibility.md) | [All documents](../README.md#documentation) | [Maintenance and governance →](maintenance-and-governance.md) |

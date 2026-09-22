@@ -1,5 +1,7 @@
 # Dataset lifecycle
 
+[← Guide home](../README.md#documentation) · Document 2 of 10
+
 A dataset in a SaaS environment typically moves through several stages:
 
 1. Collection
@@ -70,3 +72,9 @@ Include:
 - Archive location
 - Retention period
 - Access permissions
+
+---
+
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| [← Introduction](introduction.md) | [All documents](../README.md#documentation) | [Data provenance and ownership →](provenance-and-ownership.md) |

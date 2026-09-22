@@ -1,5 +1,7 @@
 # Maintenance and governance
 
+[← Guide home](../README.md#documentation) · Document 10 of 10
+
 Documentation needs clear ownership and regular maintenance to remain useful as datasets, systems, and teams change.
 
 ## Choose a documentation location
@@ -50,3 +52,9 @@ As systems change:
 - Review outdated examples
 - Revalidate ownership information
 - Archive obsolete documentation when appropriate
+
+---
+
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| [← Templates and examples](templates-and-examples.md) | [All documents](../README.md#documentation) | — |

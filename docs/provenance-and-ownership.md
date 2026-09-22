@@ -1,5 +1,7 @@
 # Data provenance and ownership
 
+[← Guide home](../README.md#documentation) · Document 3 of 10
+
 Clear provenance and ownership help teams understand where a dataset came from, how it is maintained, and who is responsible for its accuracy.
 
 ## Document the data source
@@ -35,3 +37,9 @@ Clear provenance and ownership can help teams:
 - Trace data issues back to their source
 - Improve reproducibility
 - Establish accountability for ongoing maintenance
+
+---
+
+| Previous | Guide | Next |
+| :--- | :---: | ---: |
+| [← Dataset lifecycle](dataset-lifecycle.md) | [All documents](../README.md#documentation) | [Schema and metadata standards →](schema-and-metadata.md) |
