@@ -9,6 +9,7 @@ A dataset in a SaaS environment typically moves through several stages:
 5. Archiving
 
 Documentation should follow this lifecycle so that teams can understand how a dataset was created, changed, validated, and used.
+![Dataset lifecycle showing collection, transformation, validation, usage, and archiving](../assets/images/dataset-lifecycle.png)
 
 ## Collection
 
