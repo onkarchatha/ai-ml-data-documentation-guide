@@ -27,3 +27,6 @@ Secondary readers may include:
 - Data analysts
 - Technical writers
 - Compliance professionals
+## Next
+
+Continue to [Dataset lifecycle](dataset-lifecycle.md).
