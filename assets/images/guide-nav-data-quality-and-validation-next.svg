@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="150" viewBox="0 0 360 150" role="img" aria-labelledby="title">
+<title id="title">Next →: Version control and audit trails</title>
+<style>text{font-family:Arial,Helvetica,sans-serif}.compact{display:none}@media(max-width:180px){.wide{display:none}.compact{display:block}}</style>
+<rect x="4" y="4" width="352" height="142" rx="16" fill="#f3f0fa"/>
+<g class="wide"><text x="338" y="34" text-anchor="end" fill="#756788" font-size="17" font-weight="600" letter-spacing="1.5">NEXT →</text><text x="338" y="72" text-anchor="end" fill="#392459" font-size="26" font-weight="600"><tspan x="338" dy="0">Version control and audit</tspan><tspan x="338" dy="30">trails</tspan></text></g>
+<text class="compact" x="180" y="88" text-anchor="middle" fill="#392459" font-size="44" font-weight="600">Next →</text>
+</svg>
