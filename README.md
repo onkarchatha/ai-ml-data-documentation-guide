@@ -23,6 +23,7 @@ Secondary audiences may include:
 
 1. [Introduction](docs/introduction.md)
 2. [Dataset lifecycle](docs/dataset-lifecycle.md)
+3. [Data provenance and ownership](docs/provenance-and-ownership.md)
 
 ## Topics covered
 
